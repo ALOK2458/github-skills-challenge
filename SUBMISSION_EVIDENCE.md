@@ -36,4 +36,9 @@ Add the final screenshots to this directory before submission:
 3. Coverage result or coverage comment on the pull request
 4. Final repository and workflow files
 
-The screenshot attached to the assessment must be saved locally as an image file and committed with this document. Attachments from the chat are not automatically available in the workspace.
+The final evidence screenshots are included below:
+
+![GitHub Actions workflows](image.png)
+![Successful test workflow](image-1.png)
+![Coverage result](image-2.png)
+![Pull request evidence](image-3.png)
